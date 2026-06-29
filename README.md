@@ -1,5 +1,3 @@
-<h1 align="center">Backend + AI Engineer 👋</h1>
-
 <p align="center">
   <em>Java/Kotlin·Python · Spring/FastAPI 기반 7년차 백엔드 개발자</em><br/>
   RAG·VectorDB 검색 시스템을 설계·운영하고, 온디바이스 sLLM(QLoRA 파인튜닝)까지 다룹니다.
