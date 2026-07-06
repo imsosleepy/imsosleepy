@@ -62,9 +62,3 @@
 - **Spring Cloud AWS** — SQS 이슈 대응 및 PR 기여 ([PR #1388](https://github.com/awspring/spring-cloud-aws/pull/1388))
 - **Jtokkit** — OpenAI 토크나이저 라이브러리 개선 제안 ([#80](https://github.com/knuddelsgmbh/jtokkit/issues/80))
 - 오픈소스 기여 모임 운영진 · 글또(개발자 글쓰기) · 주니어 멘토링
-
----
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
-</p>
